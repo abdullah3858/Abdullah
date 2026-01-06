@@ -9,7 +9,7 @@ package jan06;
  *
  * @author almah
  */
-public class Emplimenting implements Employeeinterface {
+public class implimenting implements Employeeinterface {
 
    
     }
