@@ -9,14 +9,14 @@ package jan06.Thread;
  *
  * @author almah
  */
- public class MyThread extends Thread{
-     
-       @Override
-     public void run(){
-         for (int i = 5; i <=10; i++) {
-             System.out.println("Child thread: "+ i);
-         }
-    
-     }
-}
- 
+// public class MyThread extends Thread{
+//     
+//       @Override
+//     public void run(){
+//         for (int i = 5; i <=10; i++) {
+//             System.out.println("Child thread: "+ i);
+//         }
+//    
+//     }
+//}
+// 

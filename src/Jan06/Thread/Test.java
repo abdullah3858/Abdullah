@@ -9,12 +9,12 @@ package jan06.Thread;
  *
  * @author almah
  */
-public class Test {
-   public static void main(String[] args) {
-        MyThread t = new MyThread();
-        t.start();
-        for (int i = 0; i <=5; i++) {
-            System.out.println("Main thread: " + i);
-        }
-    } 
-}
+//public class Test {
+//   public static void main(String[] args) {
+//        MyThread t = new MyThread();
+//        t.start();
+//        for (int i = 0; i <=5; i++) {
+//            System.out.println("Main thread: " + i);
+//        }
+//    } 
+//}

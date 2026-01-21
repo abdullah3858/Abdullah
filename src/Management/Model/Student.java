@@ -30,6 +30,10 @@ public class Student {
         this.addr = addr;
     }
 
+    public Student() {
+    }
+
+    
     public int getRoll() {
         return roll;
     }
